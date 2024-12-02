@@ -100,5 +100,5 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` p
 
 ## **Contato**
 Criado por **Mário Evangelista**  
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seuusuario) ](https://www.linkedin.com/in/marioevangelista/) 
+- LinkedIn: https://www.linkedin.com/in/marioevangelista/ 
 - Email: mariojbe@gmail.com
