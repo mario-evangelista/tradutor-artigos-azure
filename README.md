@@ -38,7 +38,7 @@ Este projeto utiliza a **Azure Translator API**, parte do Azure Cognitive Servic
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/tradutor-artigos-azure.git
+   git clone https://github.com/mario-evangelista/tradutor-artigos-azure.git
    cd tradutor-artigos-azure
    ```
 
@@ -100,9 +100,5 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` p
 
 ## **Contato**
 Criado por **Mário Evangelista**  
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seuusuario)  
-- Email: seuemail@example.com
-
----
-
-Este `README.md` pode ser ajustado conforme as particularidades do seu projeto.
+- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seuusuario) ](https://www.linkedin.com/in/marioevangelista/) 
+- Email: mariojbe@gmail.com
